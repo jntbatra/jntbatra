@@ -49,7 +49,9 @@ I like problems where correctness, latency, and cost all matter at once — paym
 ### 🧩 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jayantbtra?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode stats" />
+  <a href="https://leetcode.com/u/jayantbtra">
+    <img src="https://leetcard.jacoblin.cool/jayantbtra?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode stats" />
+  </a>
 </p>
 
 ### 📊 GitHub — stats &amp; commits
@@ -68,6 +70,12 @@ I like problems where correctness, latency, and cost all matter at once — paym
 </div>
 
 ### 🎖️ Badges &amp; Achievements
+
+<p align="center">
+  <a href="https://holopin.io/@jntbatra">
+    <img src="https://holopin.me/jntbatra.svg" alt="@jntbatra's Holopin badges (Hacktoberfest & more)" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jntbatra&no-frame=true&column=7&margin-w=6&title=MultipleLang,Commits,Repositories,Stars,Followers,Issues,PullRequest" alt="trophies" />
