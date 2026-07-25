@@ -1,43 +1,82 @@
-<h1 align="center">Hi, I'm Jayant Batra 👋</h1>
+<!-- HEADER -->
+<a href="https://github.com/jntbatra">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Jayant%20Batra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineer%20%C2%B7%20Payments%20%C2%B7%20Delivery%20%C2%B7%20Scale&descAlignY=60&descSize=18" alt="header" />
+</a>
 
+<!-- TYPING SUBTITLE -->
 <p align="center">
-  <b>Backend &amp; systems engineer</b> — payments, delivery systems, and scale.<br>
-  Computer Engineering @ Thapar '27 · C++ / TypeScript / Python · 400+ DSA solved
+  <a href="https://github.com/jntbatra">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=620&lines=Backend+%26+Systems+Engineer;Payments+%E2%80%A2+Delivery+%E2%80%A2+Scale;C%2B%2B+%7C+TypeScript+%7C+Python+%7C+400%2B+DSA+solved;Open+to+SDE+roles" alt="typing" />
+  </a>
 </p>
 
+<!-- SOCIALS + VIEWS -->
 <p align="center">
   <a href="https://linkedin.com/in/jntbatra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://leetcode.com/u/jayantbtra"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="mailto:jayantbtra@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=jntbatra&label=Profile+views&color=0e75b6&style=for-the-badge" alt="views">
 </p>
 
 ---
 
-### 🚀 What I build
+## 👨‍💻 About
 
-I like problems where correctness, latency, and cost all matter at once — payments that can't double-charge, caches that make screens feel instant, infra that scales without burning money.
+I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems where **correctness, latency, and cost** all matter at once — payments that can't double-charge, caches that make screens feel instant, infra that scales without burning money.
 
-- **[Cravo](https://cravo-backend.jayantb.dev/app)** — production payments-integrated **food-delivery platform** (live on Play Store & App Store). TypeScript/Node backend, 340+ API routes across 36 domains, Razorpay payments with idempotency + reconciliation, Redis caching, AWS. Grew to **1,500+ users / 2,500+ orders** with zero double-charge incidents.
-- **American Option Pricing Engine** — Monte Carlo derivatives pricer in **C++/CUDA/OpenMP**, 33.5× GPU speedup with Sobol + Brownian Bridge variance reduction.
-- **DocBook** — **GraphRAG** documentation assistant: knowledge-graph + BFS context expansion over docs (MiniLM embeddings, Gemini).
-- **Homelab** — self-hosted **K3s** cluster, GitOps CI/CD, Terraform IaC, Prometheus/Grafana, Cloudflare + Tailscale.
+- 🔭 Building **Cravo**, a production payments-integrated food-delivery platform
+- 🧠 Into distributed systems, payments infra, GPU compute, and applied AI
+- 🧩 **400+** DSA problems · C++ / TypeScript / Python
+- 📫 Reach me: **jayantbtra@gmail.com**
 
-### 🛠️ Tech
+---
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+## 🚀 Featured Projects
 
-### 🏆 Highlights
+| Project | What it is | Stack |
+|--------|-----------|-------|
+| **[Cravo](https://cravo-backend.jayantb.dev/app)** 🍔 | Production **food-delivery platform** (live on Play Store & App Store). 340+ API routes / 36 domains, Razorpay payments w/ idempotency + reconciliation, Redis caching. **1,500+ users, 2,500+ orders, zero double-charge.** | TypeScript · Node · PostgreSQL · Redis · AWS |
+| **American Option Pricing Engine** ⚡ | Monte Carlo derivatives pricer, **33.5× GPU speedup** via Sobol + Brownian Bridge variance reduction. | C++ · CUDA · OpenMP |
+| **DocBook** 📚 | **GraphRAG** documentation assistant — knowledge-graph + BFS context expansion over docs. | Python · MiniLM · Gemini |
+| **Homelab** 🖥️ | Self-hosted **K3s** cluster, GitOps CI/CD, IaC, full observability. | Proxmox · K3s · Terraform · Prometheus |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+**Backend & Data**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+</p>
+
+---
+
+## 🏆 Highlights
 
 - 🥇 **Winner** — Qualcomm Global Multiverse Hackathon (Multi-Device Track, Top 8)
 - 🌏 **International Finalist** — TRON Hackathon, Japan
@@ -45,7 +84,7 @@ I like problems where correctness, latency, and cost all matter at once — paym
 
 ---
 
-### 🧩 LeetCode
+## 🧩 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/jayantbtra">
@@ -53,22 +92,29 @@ I like problems where correctness, latency, and cost all matter at once — paym
   </a>
 </p>
 
-### 📊 GitHub — stats &amp; commits
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jntbatra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jntbatra&layout=compact&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jntbatra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jntbatra&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jntbatra&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=jntbatra&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</div>
+
+<!-- SNAKE (auto-generated by .github/workflows/snake.yml) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jntbatra/jntbatra/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jntbatra&hide_border=true&area=true" alt="commit activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jntbatra&hide_border=true&area=true&theme=tokyo-night" alt="commit activity graph" />
 </div>
 
-### 🎖️ Badges &amp; Achievements
+---
+
+## 🎖️ Badges & Achievements
 
 <p align="center">
   <a href="https://holopin.io/@jntbatra">
@@ -77,7 +123,9 @@ I like problems where correctness, latency, and cost all matter at once — paym
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jntbatra&no-frame=true&column=7&margin-w=6&title=MultipleLang,Commits,Repositories,Stars,Followers,Issues,PullRequest" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jntbatra&no-frame=true&column=7&margin-w=6&theme=tokyonight&title=MultipleLang,Commits,Repositories,Stars,Followers,Issues,PullRequest" alt="trophies" />
 </div>
 
-<p align="center"><i>Currently: building backend systems that solve real problems at scale — and open to SDE roles.</i></p>
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer&text=building%20backend%20systems%20that%20scale&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="footer" />
