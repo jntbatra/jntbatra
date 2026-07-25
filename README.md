@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <a href="https://github.com/jntbatra">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Jayant%20Batra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=%3C%20Jayant%20Batra%20%2F%3E&fontSize=52&fontColor=64ffda&animation=fadeIn&fontAlignY=52" alt="header" />
 </a>
 
 <!-- TYPING SUBTITLE -->
@@ -129,4 +129,4 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer&text=building%20backend%20systems%20that%20scale&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&text=%24%20building%20systems%20that%20scale%20_&fontSize=17&fontColor=64ffda&fontAlignY=55" alt="footer" />
