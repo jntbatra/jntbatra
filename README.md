@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/jntbatra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[https://leetcode.com/u/jayantbtra](https://leetcode.com/u/jayantbatra/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/jayantbtra"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="mailto:jayantbtra@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -18,7 +18,6 @@
 I like problems where correctness, latency, and cost all matter at once — payments that can't double-charge, caches that make screens feel instant, infra that scales without burning money.
 
 - **[Cravo](https://cravo-backend.jayantb.dev/app)** — production payments-integrated **food-delivery platform** (live on Play Store & App Store). TypeScript/Node backend, 340+ API routes across 36 domains, Razorpay payments with idempotency + reconciliation, Redis caching, AWS. Grew to **1,500+ users / 2,500+ orders** with zero double-charge incidents.
-- **[ServerSync](https://www.serversync.games/)** — **game-server tunneling platform** (playit.gg-style): host game servers from home with no port forwarding. Control-plane / stateless data-plane split, engineered for 10k concurrent connections, ~10–50× cheaper egress.
 - **American Option Pricing Engine** — Monte Carlo derivatives pricer in **C++/CUDA/OpenMP**, 33.5× GPU speedup with Sobol + Brownian Bridge variance reduction.
 - **DocBook** — **GraphRAG** documentation assistant: knowledge-graph + BFS context expansion over docs (MiniLM embeddings, Gemini).
 - **Homelab** — self-hosted **K3s** cluster, GitOps CI/CD, Terraform IaC, Prometheus/Grafana, Cloudflare + Tailscale.
