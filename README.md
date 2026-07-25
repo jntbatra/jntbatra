@@ -20,31 +20,25 @@
   <img src="https://komarev.com/ghpvc/?username=jntbatra&label=Profile+views&color=0e75b6&style=for-the-badge" alt="views">
 </p>
 
----
-
 ## 👨‍💻 About
 
-I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems where **correctness, latency, and cost** all matter at once — payments that can't double-charge, caches that make screens feel instant, infra that scales without burning money.
+I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems where **correctness, latency, and cost** all matter at once: payments that can't double-charge, caches that make screens feel instant, infra that scales without burning money.
 
 - 🔭 Building **Cravo**, a production payments-integrated food-delivery platform
 - 🧠 Into distributed systems, payments infra, GPU compute, and applied AI
 - 🧩 **377** DSA solved on LeetCode (201 Medium · 57 Hard) · C++ / TypeScript / Python
 - 📫 Reach me: **jayantbtra@gmail.com**
 
----
-
 ## 🚀 Featured Projects
 
 | Project | What it is | Stack |
 |--------|-----------|-------|
 | **[Cravo](https://cravo-backend.jayantb.dev/app)** 🍔 | Production **food-delivery platform** (live on Play Store & App Store). 340+ API routes / 36 domains, Razorpay payments w/ idempotency + reconciliation, Redis caching. **1,500+ users, 2,500+ orders, zero double-charge.** | TypeScript · Node · PostgreSQL · Redis · AWS |
-| **[American Option Pricing Engine](https://github.com/jntbatra/American-Option-Pricing-Engine)** ⚡ | Monte Carlo derivatives pricer — found the reference paper's method biased **56% high**, replaced it with Longstaff-Schwartz validated to **1e-5** of exact, **53× GPU speedup**. | C++ · CUDA · OpenMP |
-| **[TactileSight](https://github.com/jntbatra/TactileSight-litertlm)** 🦯 | Haptic navigation headband for the blind — depth camera → 21-cell vibration grid on a **Qualcomm QRB2210 NPU**, on-device Qwen3-VL + YOLOv11, 27 motors via STM32. **Qualcomm Hackathon winner.** | Kotlin · C++ · STM32 · on-device VLM |
-| **[Expense Tracker OCR](https://github.com/jntbatra/ocr-aws)** 🧾 | Cloud-native expense app — OCR receipt extraction on **AWS**, infrastructure-as-code, containerized, Next.js frontend. | TypeScript · Next.js · AWS · Docker |
-| **[DocPilot](https://github.com/jntbatra/DocPilot)** 📚 | **GraphRAG** documentation assistant — knowledge-graph + BFS context expansion over docs. | Python · MiniLM · Gemini |
-| **[Homelab](https://github.com/jntbatra/Homelab-Infrastructure-Engineering)** 🖥️ | **K3s** lab defined entirely as code — GitOps (Argo CD auto-sync/self-heal), Prometheus/Grafana, Terraform for Proxmox nodes, one-command teardown-and-rebuild. | K3s · Terraform · Argo CD · Prometheus |
-
----
+| **[American Option Pricing Engine](https://github.com/jntbatra/American-Option-Pricing-Engine)** ⚡ | Monte Carlo derivatives pricer: found the reference paper's method biased **56% high**, replaced it with Longstaff-Schwartz validated to **1e-5** of exact, **53× GPU speedup**. | C++ · CUDA · OpenMP |
+| **[TactileSight](https://github.com/jntbatra/TactileSight-litertlm)** 🦯 | Haptic navigation headband for the blind: depth camera → 21-cell vibration grid on a **Qualcomm QRB2210 NPU**, on-device Qwen3-VL + YOLOv11, 27 motors via STM32. **Qualcomm Hackathon winner.** | Kotlin · C++ · STM32 · on-device VLM |
+| **[Expense Tracker OCR](https://github.com/jntbatra/ocr-aws)** 🧾 | Cloud-native expense app: OCR receipt extraction on **AWS**, infrastructure-as-code, containerized, Next.js frontend. | TypeScript · Next.js · AWS · Docker |
+| **[DocPilot](https://github.com/jntbatra/DocPilot)** 📚 | **GraphRAG** documentation assistant: knowledge-graph + BFS context expansion over docs. | Python · MiniLM · Gemini |
+| **[Homelab](https://github.com/jntbatra/Homelab-Infrastructure-Engineering)** 🖥️ | **K3s** lab defined entirely as code: GitOps (Argo CD auto-sync/self-heal), Prometheus/Grafana, Terraform for Proxmox nodes, one-command teardown-and-rebuild. | K3s · Terraform · Argo CD · Prometheus |
 
 ## 🛠️ Tech Stack
 
@@ -78,15 +72,11 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
 
----
-
 ## 🏆 Highlights
 
-- 🥇 **Winner** — Qualcomm Global Multiverse Hackathon (Multi-Device Track, Top 8)
-- 🌏 **International Finalist** — TRON Hackathon, Japan
+- 🥇 **Winner**: Qualcomm Global Multiverse Hackathon (Multi-Device Track, Top 8)
+- 🌏 **International Finalist**: TRON Hackathon, Japan
 - 🧩 **377** DSA problems solved on LeetCode (201 Medium, 57 Hard)
-
----
 
 ## 🧩 LeetCode
 
@@ -112,11 +102,9 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jntbatra&hide_border=true&area=true&theme=tokyo-night" alt="commit activity graph" />
 </div>
 
----
-
 ## 🎖️ Badges & Achievements
 
-<p align="center"><b>Hacktoberfest 2024 — Levels 0 → 4 🎉</b></p>
+<p align="center"><b>Hacktoberfest 2024: Levels 0 → 4 🎉</b></p>
 <p align="center">
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1xmfodc142560cl18l8py81g"><img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" height="110" alt="Hacktoberfest 2024: Registered" /></a>
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2liaz7958410clasw1mwowp"><img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tea-0-0-0.webp" height="110" alt="Hacktoberfest 2024: Level 1" /></a>
@@ -128,7 +116,5 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jntbatra&no-frame=true&column=7&margin-w=6&theme=tokyonight&title=MultipleLang,Commits,Repositories,Stars,Followers,Issues,PullRequest" alt="trophies" />
 </div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&text=%24%20building%20systems%20that%20scale%20_&fontSize=17&fontColor=64ffda&fontAlignY=55" alt="footer" />
