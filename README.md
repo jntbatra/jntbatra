@@ -38,9 +38,11 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 | Project | What it is | Stack |
 |--------|-----------|-------|
 | **[Cravo](https://cravo-backend.jayantb.dev/app)** 🍔 | Production **food-delivery platform** (live on Play Store & App Store). 340+ API routes / 36 domains, Razorpay payments w/ idempotency + reconciliation, Redis caching. **1,500+ users, 2,500+ orders, zero double-charge.** | TypeScript · Node · PostgreSQL · Redis · AWS |
-| **[American Option Pricing Engine](https://github.com/jntbatra/American-Option-Pricing-Engine)** ⚡ | Monte Carlo derivatives pricer, **33.5× GPU speedup** via Sobol + Brownian Bridge variance reduction. | C++ · CUDA · OpenMP |
+| **[American Option Pricing Engine](https://github.com/jntbatra/American-Option-Pricing-Engine)** ⚡ | Monte Carlo derivatives pricer — found the reference paper's method biased **56% high**, replaced it with Longstaff-Schwartz validated to **1e-5** of exact, **53× GPU speedup**. | C++ · CUDA · OpenMP |
+| **[TactileSight](https://github.com/jntbatra/TactileSight-litertlm)** 🦯 | Haptic navigation headband for the blind — depth camera → 21-cell vibration grid on a **Qualcomm QRB2210 NPU**, on-device Qwen3-VL + YOLOv11, 27 motors via STM32. **Qualcomm Hackathon winner.** | Kotlin · C++ · STM32 · on-device VLM |
+| **[Expense Tracker OCR](https://github.com/jntbatra/ocr-aws)** 🧾 | Cloud-native expense app — OCR receipt extraction on **AWS**, infrastructure-as-code, containerized, Next.js frontend. | TypeScript · Next.js · AWS · Docker |
 | **[DocPilot](https://github.com/jntbatra/DocPilot)** 📚 | **GraphRAG** documentation assistant — knowledge-graph + BFS context expansion over docs. | Python · MiniLM · Gemini |
-| **Homelab** 🖥️ | Self-hosted **K3s** cluster, GitOps CI/CD, IaC, full observability. | Proxmox · K3s · Terraform · Prometheus |
+| **[Homelab](https://github.com/jntbatra/Homelab-Infrastructure-Engineering)** 🖥️ | **K3s** lab defined entirely as code — GitOps (Argo CD auto-sync/self-heal), Prometheus/Grafana, Terraform for Proxmox nodes, one-command teardown-and-rebuild. | K3s · Terraform · Argo CD · Prometheus |
 
 ---
 
