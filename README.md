@@ -37,7 +37,7 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 |--------|-----------|-------|
 | **[Cravo](https://cravo-backend.jayantb.dev/app)** 🍔 | Production **food-delivery platform** (live on Play Store & App Store). 340+ API routes / 36 domains, Razorpay payments w/ idempotency + reconciliation, Redis caching. **1,500+ users, 2,500+ orders, zero double-charge.** | TypeScript · Node · PostgreSQL · Redis · AWS |
 | **[American Option Pricing Engine](https://github.com/jntbatra/American-Option-Pricing-Engine)** ⚡ | Monte Carlo derivatives pricer, **33.5× GPU speedup** via Sobol + Brownian Bridge variance reduction. | C++ · CUDA · OpenMP |
-| **DocBook** 📚 | **GraphRAG** documentation assistant — knowledge-graph + BFS context expansion over docs. | Python · MiniLM · Gemini |
+| **[DocPilot](https://github.com/jntbatra/DocPilot)** 📚 | **GraphRAG** documentation assistant — knowledge-graph + BFS context expansion over docs. | Python · MiniLM · Gemini |
 | **Homelab** 🖥️ | Self-hosted **K3s** cluster, GitOps CI/CD, IaC, full observability. | Proxmox · K3s · Terraform · Prometheus |
 
 ---
