@@ -1,19 +1,19 @@
 <!-- HEADER -->
 <a href="https://github.com/jntbatra">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Jayant%20Batra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Systems%20Engineer%20%C2%B7%20Payments%20%C2%B7%20Delivery%20%C2%B7%20Scale&descAlignY=60&descSize=18" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Jayant%20Batra&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 </a>
 
 <!-- TYPING SUBTITLE -->
 <p align="center">
   <a href="https://github.com/jntbatra">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=620&lines=Backend+%26+Systems+Engineer;Payments+%E2%80%A2+Delivery+%E2%80%A2+Scale;C%2B%2B+%7C+TypeScript+%7C+Python+%7C+400%2B+DSA+solved;Open+to+SDE+roles" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=620&lines=Backend+%26+Systems+Engineer;Payments+%E2%80%A2+Delivery+%E2%80%A2+Scale;C%2B%2B+%7C+TypeScript+%7C+Python+%7C+377+DSA+solved;Open+to+SDE+roles" alt="typing" />
   </a>
 </p>
 
 <!-- SOCIALS + VIEWS -->
 <p align="center">
   <a href="https://linkedin.com/in/jntbatra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/jayantbtra"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/jayantbatra"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="mailto:jayantbtra@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=jntbatra&label=Profile+views&color=0e75b6&style=for-the-badge" alt="views">
 </p>
@@ -26,7 +26,7 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 
 - 🔭 Building **Cravo**, a production payments-integrated food-delivery platform
 - 🧠 Into distributed systems, payments infra, GPU compute, and applied AI
-- 🧩 **400+** DSA problems · C++ / TypeScript / Python
+- 🧩 **377** DSA solved on LeetCode (201 Medium · 57 Hard) · C++ / TypeScript / Python
 - 📫 Reach me: **jayantbtra@gmail.com**
 
 ---
@@ -36,7 +36,7 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 | Project | What it is | Stack |
 |--------|-----------|-------|
 | **[Cravo](https://cravo-backend.jayantb.dev/app)** 🍔 | Production **food-delivery platform** (live on Play Store & App Store). 340+ API routes / 36 domains, Razorpay payments w/ idempotency + reconciliation, Redis caching. **1,500+ users, 2,500+ orders, zero double-charge.** | TypeScript · Node · PostgreSQL · Redis · AWS |
-| **American Option Pricing Engine** ⚡ | Monte Carlo derivatives pricer, **33.5× GPU speedup** via Sobol + Brownian Bridge variance reduction. | C++ · CUDA · OpenMP |
+| **[American Option Pricing Engine](https://github.com/jntbatra/American-Option-Pricing-Engine)** ⚡ | Monte Carlo derivatives pricer, **33.5× GPU speedup** via Sobol + Brownian Bridge variance reduction. | C++ · CUDA · OpenMP |
 | **DocBook** 📚 | **GraphRAG** documentation assistant — knowledge-graph + BFS context expansion over docs. | Python · MiniLM · Gemini |
 | **Homelab** 🖥️ | Self-hosted **K3s** cluster, GitOps CI/CD, IaC, full observability. | Proxmox · K3s · Terraform · Prometheus |
 
@@ -80,15 +80,15 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 
 - 🥇 **Winner** — Qualcomm Global Multiverse Hackathon (Multi-Device Track, Top 8)
 - 🌏 **International Finalist** — TRON Hackathon, Japan
-- 🧩 **400+** DSA problems solved
+- 🧩 **377** DSA problems solved on LeetCode (201 Medium, 57 Hard)
 
 ---
 
 ## 🧩 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/u/jayantbtra">
-    <img src="https://leetcard.jacoblin.cool/jayantbtra?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode stats" />
+  <a href="https://leetcode.com/u/jayantbatra">
+    <img src="https://leetcard.jacoblin.cool/jayantbatra?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode stats" />
   </a>
 </p>
 
@@ -97,10 +97,6 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jntbatra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jntbatra&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jntbatra&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </div>
 
 <!-- SNAKE (auto-generated by .github/workflows/snake.yml) -->
@@ -116,10 +112,13 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 
 ## 🎖️ Badges & Achievements
 
+<p align="center"><b>Hacktoberfest 2024 — Levels 0 → 4 🎉</b></p>
 <p align="center">
-  <a href="https://holopin.io/@jntbatra">
-    <img src="https://holopin.me/jntbatra.svg" alt="@jntbatra's Holopin badges (Hacktoberfest & more)" />
-  </a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1xmfodc142560cl18l8py81g"><img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" height="110" alt="Hacktoberfest 2024: Registered" /></a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2liaz7958410clasw1mwowp"><img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tea-0-0-0.webp" height="110" alt="Hacktoberfest 2024: Level 1" /></a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2zpapvi110300cjzor181rfu"><img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tea-robe-0-0.webp" height="110" alt="Hacktoberfest 2024: Level 2" /></a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm310asj306400cmllmtwa1ku"><img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-tea-robe-witch-0.webp" height="110" alt="Hacktoberfest 2024: Level 3" /></a>
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm310asg206340cml9xhykivy"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-moon.webp" height="110" alt="Hacktoberfest 2024: Level 4" /></a>
 </p>
 
 <div align="center">
