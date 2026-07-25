@@ -88,7 +88,7 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 
 <p align="center">
   <a href="https://leetcode.com/u/jayantbatra">
-    <img src="https://leetcard.jacoblin.cool/jayantbatra?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode stats" />
+    <img src="https://leetcard.jacoblin.cool/jayantbatra?theme=dark&font=Baloo%202" alt="LeetCode stats" />
   </a>
 </p>
 
