@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <a href="https://github.com/jntbatra">
-  <img width="100%" src="./assets/header.png" alt="Jayant Batra" />
+  <img width="100%" src="https://raw.githubusercontent.com/jntbatra/jntbatra/master/assets/header.png" alt="Jayant Batra" />
 </a>
 
 <!-- TYPING SUBTITLE -->
@@ -113,4 +113,4 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm310asg206340cml9xhykivy"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-moon.webp" height="110" alt="Hacktoberfest 2024: Level 4" /></a>
 </p>
 
-<img width="100%" src="./assets/footer.png" alt="building systems that scale" />
+<img width="100%" src="https://raw.githubusercontent.com/jntbatra/jntbatra/master/assets/footer.png" alt="building systems that scale" />
