@@ -39,14 +39,29 @@ const jayant: Engineer = {
 
 ## `~/projects`
 
-| Project | What it is | Stack |
-|--------|-----------|-------|
-| **[Cravo](https://cravo-backend.jayantb.dev/app)** 🍔 | Production **food-delivery platform** (live on Play Store & App Store). 340+ API routes / 36 domains, Razorpay payments w/ idempotency + reconciliation, Redis caching. **1,500+ users, 2,500+ orders, zero double-charge.** | TypeScript · Node · PostgreSQL · Redis · AWS |
-| **[American Option Pricing Engine](https://github.com/jntbatra/American-Option-Pricing-Engine)** ⚡ | Monte Carlo derivatives pricer: found the reference paper's method biased **56% high**, replaced it with Longstaff-Schwartz validated to **1e-5** of exact, **53× GPU speedup**. | C++ · CUDA · OpenMP |
-| **[TactileSight](https://github.com/jntbatra/TactileSight-litertlm)** 🦯 | Haptic navigation headband for the blind: depth camera → 21-cell vibration grid on a **Qualcomm QRB2210 NPU**, on-device Qwen3-VL + YOLOv11, 27 motors via STM32. **Qualcomm Hackathon winner.** | Kotlin · C++ · STM32 · on-device VLM |
-| **[Expense Tracker OCR](https://github.com/jntbatra/ocr-aws)** 🧾 | Cloud-native expense app: OCR receipt extraction on **AWS**, infrastructure-as-code, containerized, Next.js frontend. | TypeScript · Next.js · AWS · Docker |
-| **[DocPilot](https://github.com/jntbatra/DocPilot)** 📚 | **GraphRAG** documentation assistant: knowledge-graph + BFS context expansion over docs. | Python · MiniLM · Gemini |
-| **[Homelab](https://github.com/jntbatra/Homelab-Infrastructure-Engineering)** 🖥️ | **K3s** lab defined entirely as code: GitOps (Argo CD auto-sync/self-heal), Prometheus/Grafana, Terraform for Proxmox nodes, one-command teardown-and-rebuild. | K3s · Terraform · Argo CD · Prometheus |
+**[Cravo](https://cravo-backend.jayantb.dev/app)** — food-delivery app, live on the App Store and Play Store
+I built the backend end to end: 36 domains, 340+ routes, and Razorpay payments with idempotent webhooks plus a reconciliation job that treats the gateway as the source of truth, so no order double-charges. It's handled 1,500+ users and 2,500+ orders so far.
+`TypeScript` · `Node` · `PostgreSQL` · `Redis` · `AWS`
+
+**[American Option Pricing Engine](https://github.com/jntbatra/American-Option-Pricing-Engine)** — Monte Carlo options pricer on the GPU
+Started out reproducing a finance paper and found its pricing method was 56% off. Rebuilt it with Longstaff-Schwartz — it now matches the Black-Scholes value to 1e-5 — and got it running 53× faster on the GPU.
+`C++` · `CUDA` · `OpenMP`
+
+**[TactileSight](https://github.com/jntbatra/TactileSight-litertlm)** — letting blind users feel what's around them
+A depth camera drives a 21-cell grid of vibration motors, so an obstacle becomes something you feel on your skin rather than something a cane has to find. Recognition (Qwen3-VL + YOLOv11) runs on-device on a Qualcomm NPU. Won the Multi-Device track at the Qualcomm hackathon.
+`Kotlin` · `C++` · `STM32` · `on-device VLM`
+
+**[Expense Tracker OCR](https://github.com/jntbatra/ocr-aws)** — snap a receipt, get it logged
+Point a camera at a receipt and it gets read and filed automatically. OCR runs on AWS, Next.js on the front end, shipped with Docker and Terraform.
+`TypeScript` · `Next.js` · `AWS` · `Docker`
+
+**[DocPilot](https://github.com/jntbatra/DocPilot)** — a docs assistant that connects the dots
+Builds a knowledge graph out of a doc set and walks it (BFS) to answer questions that span several pages — the kind plain RAG tends to miss.
+`Python` · `MiniLM` · `Gemini`
+
+**[Homelab](https://github.com/jntbatra/Homelab-Infrastructure-Engineering)** — my whole homelab, kept as code
+k3s with Argo CD that self-heals, Prometheus and Grafana watching it, and Terraform for the VMs. `make rebuild` brings the whole thing back from nothing — which I wrote after a host reset wiped the hand-built version and taught me the lesson.
+`K3s` · `Terraform` · `Argo CD` · `Prometheus`
 
 ## `~/stack`
 
