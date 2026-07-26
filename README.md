@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <a href="https://github.com/jntbatra">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=%3C%20Jayant%20Batra%20%2F%3E&fontSize=52&fontColor=64ffda&animation=fadeIn&fontAlignY=52" alt="header" />
+  <img width="100%" src="./assets/header.png" alt="Jayant Batra" />
 </a>
 
 <!-- TYPING SUBTITLE -->
@@ -113,8 +113,4 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm310asg206340cml9xhykivy"><img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tea-robe-witch-moon.webp" height="110" alt="Hacktoberfest 2024: Level 4" /></a>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jntbatra&no-frame=true&column=7&margin-w=6&theme=tokyonight&title=MultipleLang,Commits,Repositories,Stars,Followers,Issues,PullRequest" alt="trophies" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&text=%24%20building%20systems%20that%20scale%20_&fontSize=17&fontColor=64ffda&fontAlignY=55" alt="footer" />
+<img width="100%" src="./assets/footer.png" alt="building systems that scale" />
