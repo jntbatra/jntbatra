@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <a href="https://github.com/jntbatra">
-  <img width="100%" src="https://raw.githubusercontent.com/jntbatra/jntbatra/master/assets/header.png" alt="Jayant Batra" />
+  <img width="100%" src="https://raw.githubusercontent.com/jntbatra/jntbatra/master/assets/header-nothing-white.png" alt="Jayant Batra" />
 </a>
 
 <!-- TYPING SUBTITLE -->
