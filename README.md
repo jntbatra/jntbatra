@@ -112,7 +112,7 @@ k3s with Argo CD that self-heals, Prometheus and Grafana watching it, and Terraf
 ## `~/activity`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-cyan-tau-85.vercel.app/api?username=jntbatra&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats-cyan-tau-85.vercel.app/api?username=jntbatra&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="stats" />
   <img height="165" src="https://github-readme-stats-cyan-tau-85.vercel.app/api/top-langs/?username=jntbatra&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs" />
 </div>
 
