@@ -44,7 +44,7 @@ I built the backend end to end: 36 domains, 340+ routes, and Razorpay payments w
 `TypeScript` · `Node` · `PostgreSQL` · `Redis` · `AWS`
 
 **[American Option Pricing Engine](https://github.com/jntbatra/American-Option-Pricing-Engine)** — Monte Carlo options pricer on the GPU
-Started out reproducing a finance paper and found its pricing method was 56% off. Rebuilt it with Longstaff-Schwartz — it now matches the Black-Scholes value to 1e-5 — and got it running 53× faster on the GPU.
+Started out reproducing a finance paper and found its pricing method was 56% off. Rebuilt it with Longstaff-Schwartz — it now matches the Black-Scholes value to 1e-5 — and got it running 53× faster than a serial CPU baseline (10× over 28-thread OpenMP).
 `C++` · `CUDA` · `OpenMP`
 
 **[TactileSight](https://github.com/jntbatra/TactileSight-litertlm)** — letting blind users feel what's around them
