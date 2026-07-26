@@ -6,7 +6,7 @@
 <!-- TYPING SUBTITLE -->
 <p align="center">
   <a href="https://github.com/jntbatra">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=620&lines=Backend+%26+Systems+Engineer;Payments+%E2%80%A2+Delivery+%E2%80%A2+Scale;C%2B%2B+%7C+TypeScript+%7C+Python+%7C+377+DSA+solved;Open+to+SDE+roles" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=620&lines=Backend+%26+Systems+Engineer;Payments+%E2%80%A2+Delivery+%E2%80%A2+Scale;C%2B%2B+%7C+TypeScript+%7C+Python+%7C+375%2B+DSA+solved;Open+to+SDE+roles" alt="typing" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ const jayant: Engineer = {
   building:  "Cravo — payments-integrated food delivery (live on iOS + Android)",
   focus:     ["distributed systems", "payments infra", "GPU compute", "applied AI"],
   languages: ["C++", "TypeScript", "Python", "Go"],
-  dsa:       { solved: 377, medium: 201, hard: 57 },
+  dsa:       "375+ solved on LeetCode",  // live breakdown below
   reach:     "jayantbtra@gmail.com",
 };
 ```
@@ -99,7 +99,7 @@ k3s with Argo CD that self-heals, Prometheus and Grafana watching it, and Terraf
 
 - 🥇 **Winner**: Qualcomm Global Multiverse Hackathon (Multi-Device Track, Top 8)
 - 🌏 **International Finalist**: TRON Hackathon, Japan
-- 🧩 **377** DSA problems solved on LeetCode (201 Medium, 57 Hard)
+- 🧩 **375+** DSA problems solved on LeetCode (live count below)
 
 ## `~/leetcode`
 
