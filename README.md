@@ -20,16 +20,24 @@
   <img src="https://komarev.com/ghpvc/?username=jntbatra&label=Profile+views&color=0e75b6&style=for-the-badge" alt="views">
 </p>
 
-## 👨‍💻 About
+## `~/whoami`
 
-I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems where **correctness, latency, and cost** all matter at once: payments that can't double-charge, caches that make screens feel instant, infra that scales without burning money.
+I build backend systems where **correctness, latency, and cost** all matter at
+once: payments that can't double-charge, caches that make screens feel instant,
+infra that scales without burning money.
 
-- 🔭 Building **Cravo**, a production payments-integrated food-delivery platform
-- 🧠 Into distributed systems, payments infra, GPU compute, and applied AI
-- 🧩 **377** DSA solved on LeetCode (201 Medium · 57 Hard) · C++ / TypeScript / Python
-- 📫 Reach me: **jayantbtra@gmail.com**
+```ts
+const jayant: Engineer = {
+  education: "Computer Engineering @ Thapar '27",
+  building:  "Cravo — payments-integrated food delivery (live on iOS + Android)",
+  focus:     ["distributed systems", "payments infra", "GPU compute", "applied AI"],
+  languages: ["C++", "TypeScript", "Python", "Go"],
+  dsa:       { solved: 377, medium: 201, hard: 57 },
+  reach:     "jayantbtra@gmail.com",
+};
+```
 
-## 🚀 Featured Projects
+## `~/projects`
 
 | Project | What it is | Stack |
 |--------|-----------|-------|
@@ -40,7 +48,7 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
 | **[DocPilot](https://github.com/jntbatra/DocPilot)** 📚 | **GraphRAG** documentation assistant: knowledge-graph + BFS context expansion over docs. | Python · MiniLM · Gemini |
 | **[Homelab](https://github.com/jntbatra/Homelab-Infrastructure-Engineering)** 🖥️ | **K3s** lab defined entirely as code: GitOps (Argo CD auto-sync/self-heal), Prometheus/Grafana, Terraform for Proxmox nodes, one-command teardown-and-rebuild. | K3s · Terraform · Argo CD · Prometheus |
 
-## 🛠️ Tech Stack
+## `~/stack`
 
 **Languages**
 <p>
@@ -72,13 +80,13 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
 
-## 🏆 Highlights
+## `~/highlights`
 
 - 🥇 **Winner**: Qualcomm Global Multiverse Hackathon (Multi-Device Track, Top 8)
 - 🌏 **International Finalist**: TRON Hackathon, Japan
 - 🧩 **377** DSA problems solved on LeetCode (201 Medium, 57 Hard)
 
-## 🧩 LeetCode
+## `~/leetcode`
 
 <p align="center">
   <a href="https://leetcode.com/u/jayantbatra">
@@ -86,10 +94,10 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
   </a>
 </p>
 
-## 📊 GitHub Analytics
+## `~/activity`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-cyan-tau-85.vercel.app/api?username=jntbatra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats-cyan-tau-85.vercel.app/api?username=jntbatra&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats" />
   <img height="165" src="https://github-readme-stats-cyan-tau-85.vercel.app/api/top-langs/?username=jntbatra&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs" />
 </div>
 
@@ -102,7 +110,7 @@ I'm a Computer Engineering undergrad (**Thapar '27**) who builds backend systems
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jntbatra&hide_border=true&area=true&theme=tokyo-night" alt="commit activity graph" />
 </div>
 
-## 🎖️ Badges & Achievements
+## `~/badges`
 
 <p align="center"><b>Hacktoberfest 2024: Levels 0 → 4 🎉</b></p>
 <p align="center">
